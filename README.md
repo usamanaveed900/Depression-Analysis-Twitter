@@ -35,6 +35,11 @@ To run the `Analysis.ipynb` iPython notebook that contains all the code, please 
 ```sh
 $ jupyter notebook
 ```
+### Demo Videos
+
+* Part 1 : https://youtu.be/t5JwGhtwFU4
+* Part 2 : https://youtu.be/l_karl3EG_Q
+
 ### Authors
 
 * **Usama Naveed** -https://github.com/usamanaveed900)
