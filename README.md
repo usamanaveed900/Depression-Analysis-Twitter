@@ -37,8 +37,7 @@ $ jupyter notebook
 ```
 ### Demo Videos
 
-* Part 1 : https://youtu.be/t5JwGhtwFU4
-* Part 2 : https://youtu.be/l_karl3EG_Q
+* https://youtu.be/5MG1EVZKp-Y
 
 ### Authors
 
